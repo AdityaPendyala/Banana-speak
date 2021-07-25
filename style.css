@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100;400&display=swap');
+:root{
+    --primarycolor:#ffe135;
+}
+body{
+    font-family: 'Lexend', sans-serif;
+}
+.navbar{
+    background-color: var(--primarycolor);
+    padding: 1rem;
+}
+#txt-area{
+    width: 80%;
+    padding: 1rem;
+    margin: 1rem;
+    height: 10vh;
+    display: block;
+
+}
+#btn-translate{
+    background-color: var(--primarycolor);
+}
